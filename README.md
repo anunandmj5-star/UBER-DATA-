@@ -46,7 +46,7 @@ Steps performed during preprocessing:
 ### 1. Most Booked Category
 - **Insight:** Business rides are booked more frequently than Personal rides.  
 - **Visualization:**  
-![Most Booked Category and Purpose](uberimages/booked_and_purpose.png)
+![Most Booked Category and Purpose](Image1/most_booked.png)
 
 ---
 
@@ -59,28 +59,28 @@ Steps performed during preprocessing:
 ### 3. Peak Booking Time
 - **Insight:** Rides are most frequently booked in the **Morning** and **Evening**.  
 - **Visualization:**  
-![Peak Booking Time](uberimages/booking_time.png)
+![Peak Booking Time](Image1/peak_booking_time.png)
 
 ---
 
 ### 4. Months with Less Frequent Bookings
 - **Insight:** Fewer bookings are observed in **February, March, and July**, while highest bookings occur in **November and December**.  
 - **Visualization:**
-![Monthly Bookings](uberimages/booking_months.png)
+![Monthly Bookings](Image1/less_frequent_booking_months.png)
 
 ---
 
 ### 5. Most Popular Days
 - **Insight:** Rides are booked most frequently on **Friday, Monday, and Tuesday**.  
 - **Visualization:**
-![Popular Days](uberimages/popular_days.png)
+![Popular Days](Image1/most_popular_days.png)
 
 ---
 
 ### 6. Ride Distances
 - **Insight:** Most rides are booked for **3–13 miles**. Maximum miles traveled are noted in **March, September, April, and July**.  
 - **Visualization:**
-![Ride Distances](uberimages/miles.png)
+![Ride Distances](Image1/most_distance.png)
 
 ---
 
